@@ -20,7 +20,7 @@ Software:
 
 A 22-minute **film** called **Visualizing the Quality of Data** (https://tinyurl.com/VizDataQuality)
 
-## Data Visualization Masterclass
+## Data visualization masterclass
 
 This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively.
 
@@ -57,7 +57,7 @@ Dates:
 - 2nd April 2025, University of Leeds, Leeds, UK (in-person)
 - 12th December 2025, University of Leeds, Leeds, UK (in-person)
 
-## Training workshop: Visualization for Explainable AI (XAI)
+## Training workshop: Visualization for explainable AI (XAI)
 
 This half-day tutorial was developed by the Making Visualization Scalable (MAVIS) for explaining machine learning classification models project (https://gtr.ukri.org/projects?ref=EP%2FX029689%2F1).
 The learning objectives were for attendees to understand: (1) How XAI requirements vary across stakeholders, (2) How visualization is used in XAI, (3) The types of issue and blooper that occur in XAI visualization, and (4) Scalability – how to make visualization effective for large/complex models.
