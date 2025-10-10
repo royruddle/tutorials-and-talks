@@ -59,7 +59,7 @@ Dates:
 
 ## Training workshop: Visualization for explainable AI (XAI)
 
-This half-day tutorial was developed by the Making Visualization Scalable (MAVIS) for explaining machine learning classification models project (https://gtr.ukri.org/projects?ref=EP%2FX029689%2F1).
+This half-day workshop was developed by the Making Visualization Scalable (MAVIS) for explaining machine learning classification models project (https://gtr.ukri.org/projects?ref=EP%2FX029689%2F1).
 The learning objectives were for attendees to understand: (1) How XAI requirements vary across stakeholders, (2) How visualization is used in XAI, (3) The types of issue and blooper that occur in XAI visualization, and (4) Scalability – how to make visualization effective for large/complex models.
 
 **Is this workshop for me?** The workshop is open to everyone, irrespective of their level of knowledge about XAI and visualization.
