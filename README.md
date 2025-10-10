@@ -13,9 +13,9 @@ Feel free to contact me via LinkedIn (www.linkedin.com/in/roy-ruddle-9973457b) i
 6. Profile the cleaned data
 
 Software:
-The **ACE** interactive set visualization software (written in Java; https://doi.org/10.5518/1150), which we used with epidemiologists and NHS Digital to gain new insights into patterns of missing data in a large hospital dataset.
-The **setvis** Python package (https://pypi.org/project/setvis/), which has similar functionality to ACE.
-The **vizdataquality** Python package (https://pypi.org/project/vizdataquality/), which implements the six-step workflow and helps you to visually document your investigations as a webpage, in Latex or Word.
+- The **ACE** interactive set visualization software (written in Java; https://doi.org/10.5518/1150), which we used with epidemiologists and NHS Digital to gain new insights into patterns of missing data in a large hospital dataset.
+- The **setvis** Python package (https://pypi.org/project/setvis/), which has similar functionality to ACE.
+- The **vizdataquality** Python package (https://pypi.org/project/vizdataquality/), which implements the six-step workflow and helps you to visually document your investigations as a webpage, in Latex or Word.
 
 A 22-minute **film** called **Visualizing the Quality of Data** (https://tinyurl.com/VizDataQuality)
 
