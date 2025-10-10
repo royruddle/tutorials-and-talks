@@ -2,6 +2,7 @@
 This project contains continuing professional development (CPD) training and talks that about topics in data science and visualization, which I have given.
 There are also links to some additional resouces.
 Feel free to contact me via LinkedIn (www.linkedin.com/in/roy-ruddle-9973457b) if you would like to attend any of the events the next time they run, or you would like to discuss some bespoke training or talk.
+See my webite (https://raruddle.wordpress.com/) for lots more information.
 
 ## Resources
 **Practitioner's Guide** (https://doi.org/10.5518/1481) that describes 62 data quality/profiling tasks in plain English, with a downloadable Excel checklist. The tasks are grouped into this six-step recommended workflow:
