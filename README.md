@@ -62,6 +62,10 @@ Dates:
 This half-day workshop was developed by the Making Visualization Scalable (MAVIS) for explaining machine learning classification models project (https://gtr.ukri.org/projects?ref=EP%2FX029689%2F1).
 The learning objectives were for attendees to understand: (1) How XAI requirements vary across stakeholders, (2) How visualization is used in XAI, (3) The types of issue and blooper that occur in XAI visualization, and (4) Scalability – how to make visualization effective for large/complex models.
 
+Here are some of the workshop materials:
+- [Taxonomy of XAI tasks and questions](https://github.com/royruddle/tutorials-and-talks/xai_visualization_tutorial/XAI_tasks_and_questions.pdf)
+- [References](https://github.com/royruddle/tutorials-and-talks/xai_visualization_tutorial/XAI_viz_references.pdf)
+
 **Is this workshop for me?** The workshop is open to everyone, irrespective of their level of knowledge about XAI and visualization.
 
 Dates:
