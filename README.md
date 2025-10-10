@@ -18,7 +18,7 @@ Software:
 - The **setvis** Python package (https://pypi.org/project/setvis/), which has similar functionality to ACE.
 - The **vizdataquality** Python package (https://pypi.org/project/vizdataquality/), which implements the six-step workflow and helps you to visually document your investigations as a webpage, in Latex or Word.
 
-A 22-minute **film** called **Visualizing the Quality of Data** (https://www.youtube.com/watch?v=PnNMfCRWL7k)
+A 22-minute film called **Visualizing the Quality of Data** (https://www.youtube.com/watch?v=PnNMfCRWL7k)
 
 ## Data visualization masterclass
 
