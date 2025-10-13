@@ -1,7 +1,7 @@
 # tutorials-and-talks
-This project contains continuing professional development (CPD) training and talks that about topics in data science and visualization, which I have given.
-There are also links to some additional resouces.
-Feel free to contact me via LinkedIn (www.linkedin.com/in/roy-ruddle-9973457b) if you would like to attend any of the events the next time they run, or you would like to discuss some bespoke training or talk.
+This project contains continuing professional development (CPD) training and talks about topics in data science and visualization, which I have given.
+There are also links to some additional resources.
+Feel free to contact me via LinkedIn (www.linkedin.com/in/roy-ruddle-9973457b) if you would like to attend any of the events the next time they run, or would like to discuss some bespoke training or talk.
 See my website (https://raruddle.wordpress.com/) for lots more information.
 
 ## Resources
@@ -14,18 +14,20 @@ See my website (https://raruddle.wordpress.com/) for lots more information.
 6. Profile the cleaned data
 
 Software:
-- The **ACE** interactive set visualization software (written in Java; https://doi.org/10.5518/1150), which we used with epidemiologists and NHS Digital to gain new insights into patterns of missing data in a large hospital dataset.
-- The **setvis** Python package (https://pypi.org/project/setvis/), which has similar functionality to ACE.
-- The **vizdataquality** Python package (https://pypi.org/project/vizdataquality/), which implements the six-step workflow and helps you to visually document your investigations as a webpage, in Latex or Word.
+- The **ACE** interactive set visualization software (written in Java; https://doi.org/10.5518/1150), which we used with epidemiologists and NHS Digital to gain new insights into [patterns of missing data in a large hospital dataset](http://dx.doi.org/10.1136/bmjopen-2022-064887).
+- The **setvis** Python package (https://pypi.org/project/setvis/), which has similar functionality to ACE for general purpose set visualization, works with in-memory datasets and PostgresSQL databases, and is [very memory efficient](https://joss.theoj.org/papers/10.21105/joss.06925).
+- The **vizdataquality** Python package (https://pypi.org/project/vizdataquality/), which implements the above [six-step workflow for efficiently and rigorously investigating data quality](https://doi.org/10.5518/1481), and helps you to visually document your investigations as a webpage, in Latex or Word.
 
 A 22-minute film called **Visualizing the Quality of Data** (https://www.youtube.com/watch?v=PnNMfCRWL7k)
 
 ## Data visualization masterclass
 
-This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively.
+This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively. Some of the examples use [vizdataquality]https://pypi.org/project/vizdataquality/).
 
-Dates:
+Previous dates:
 - 14th March 2025, University of Leeds, Leeds, UK (hybrid)
+
+Next date:
 - 18th November 2025, University of Leeds, Leeds, UK (hybrid)
 
 
@@ -37,13 +39,13 @@ Through 10+ year's of research, I have developed a method and software (see *Res
 I have also given a number of talks about investigating data quality, including:
 - How good is my data and how can I check it? 6th October 2020 (industry organised hackathon) and 21st July 2020 (LIDA-Alan Turing Institute Data Centre Collaboration Event).
 - How can you rigorously profile and investigate the quality of your data? 14th March 2024 (Consumer Data Research Centre), 15th May 2024 (LIDA Data Scientist Development Programme), 18th June 2024 (Alan Turing Institute tech talk)
-- New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). In this talk I will will open your eyes about the many ways your data might be ``wrong'' and describe six steps for rigorously and efficiently checking data quality.
-- How should I investigate data? 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person). In this tech talk I will demonstrate an openly available six-step data quality workflow (https://doi.org/10.5518/1481) and associated Python package (https://pypi.org/project/vizdataquality/).
+- New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). This talk's aim was to ``open your eyes about the many ways your data might be `wrong' and describe six steps for rigorously and efficiently checking data quality'', showcasing the [six-step data quality workflow](https://doi.org/10.5518/1481).
+- How should I investigate data? 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person). In this tech talk I demonstrated an openly available [six-step data quality workflow](https://doi.org/10.5518/1481) and the associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
 
 
 ## Training workshop: Data quality
 
-In this 1-day interactive course you will learn the why, what, when and how of investigating data quality. You will put your knowledge into practice in a series of challenges that cover tabular, spatial and longitudinal data. The workshop objectives are:
+In this 1-day interactive course you will learn the why, what, when and how of investigating data quality. You will put your knowledge into practice in a series of challenges that cover tabular, spatial and longitudinal data. The workshop follows the [six-step data quality workflow](https://doi.org/10.5518/1481), using [vizdataquality](https://pypi.org/project/vizdataquality/) and other software to provide solutions to the challenges. The workshop objectives are:
 -	To understand the range of tasks you need to perform to investigate data quality
 -	To learn about computational and visualization techniques you can use
 -	To gain experience of an efficient and rigorous workflow
@@ -53,8 +55,10 @@ In this 1-day interactive course you will learn the why, what, when and how of i
 No prior technical knowledge is assumed for this workshop.
 You may use any software for the practical work and you need to bring a laptop to use for that practical work, with the software installed.
 
-Dates:
+Previous dates:
 - 2nd April 2025, University of Leeds, Leeds, UK (in-person)
+
+Next date:
 - 12th December 2025, University of Leeds, Leeds, UK (in-person)
 
 ## Training workshop: Visualization for explainable AI (XAI)
@@ -68,8 +72,10 @@ Here are some of the workshop materials:
 
 **Is this workshop for me?** The workshop is open to everyone, irrespective of their level of knowledge about XAI and visualization.
 
-Dates:
+Previous dates:
 - 7th October 2025, University of Leeds, Leeds, UK (in-person)
+
+Next date:
 - 3rd November 2025, IEEE VIS Conference, Vienna, Austria (in-person)
 
 ## Training workshop: Tableau visualization
@@ -78,7 +84,7 @@ This 1-day interactive workshop provides a practical introduction to data visual
 
 **Is this workshop for me?** No prior knowledge is assumed, other than having basic IT skills. However, you will get the most out of the workshop if you complete in advance Tableau's *Get Started* tutorial (https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm).
 
-Dates:
+Previous dates:
 - 8th February 2017, University of Leeds, Leeds, UK (in-person)
 - 14th February 2018, University of Leeds, Leeds, UK (in-person)
 - 27th February 2019, University of Leeds, Leeds, UK (in-person)
@@ -89,5 +95,8 @@ Dates:
 - 28th April 2023, University of Leeds, Leeds, UK (in-person)
 - 7th June 2024, University of Leeds, Leeds, UK (in-person)
 - 30th May 2025, University of Leeds, Leeds, UK (in-person)
+
+Next date:
+- TBC
 
 Half-day versions of this workshop were run for the *Leeds Data Science Society* on 15th November 2017, 11th June 2018 (twice), 13th March 2019 (twice) and 11th March 2020.
