@@ -22,7 +22,7 @@ A 22-minute film called **Visualizing the Quality of Data** (https://www.youtube
 
 ## Data visualization masterclass
 
-This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively. Some of the examples use [vizdataquality]https://pypi.org/project/vizdataquality/).
+This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively. Some of the examples use [vizdataquality](https://pypi.org/project/vizdataquality/).
 
 Previous dates:
 - 14th March 2025, University of Leeds, Leeds, UK (hybrid)
@@ -40,7 +40,7 @@ I have also given a number of talks about investigating data quality, including:
 - How good is my data and how can I check it? 6th October 2020 (industry organised hackathon) and 21st July 2020 (LIDA-Alan Turing Institute Data Centre Collaboration Event).
 - How can you rigorously profile and investigate the quality of your data? 14th March 2024 (Consumer Data Research Centre), 15th May 2024 (LIDA Data Scientist Development Programme), 18th June 2024 (Alan Turing Institute tech talk)
 - New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). This talk's aim was to ``open your eyes about the many ways your data might be `wrong' and describe six steps for rigorously and efficiently checking data quality'', showcasing the [six-step data quality workflow](https://doi.org/10.5518/1481).
-- How should I investigate data? 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person). In this tech talk I demonstrated an openly available [six-step data quality workflow](https://doi.org/10.5518/1481) and the associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
+- How should I investigate data? 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person). In this tech talk I demonstrated the openly available [six-step data quality workflow](https://doi.org/10.5518/1481) and associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
 
 
 ## Training workshop: Data quality
@@ -51,7 +51,7 @@ In this 1-day interactive course you will learn the why, what, when and how of i
 -	To gain experience of an efficient and rigorous workflow
 -	To learn how to communicate your findings
 
-**Is this workshop for me?** The workshop is open to everyone, irrespective of your level of knowledge about data quality. However, you will get the most out of the course if you have familiarised yourself with the Practical Guide to Characterising Data and Investigating Data Quality (https://doi.org/10.5518/1481), which was written by a team that I led.
+**Is this workshop for me?** The workshop is open to everyone, irrespective of your level of knowledge about data quality. However, you will get the most out of the course if you have familiarised yourself with the [six-step data quality workflow](https://doi.org/10.5518/1481), which was written by a team that I led.
 No prior technical knowledge is assumed for this workshop.
 You may use any software for the practical work and you need to bring a laptop to use for that practical work, with the software installed.
 
