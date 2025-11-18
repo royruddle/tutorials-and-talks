@@ -22,7 +22,7 @@ A 22-minute film called **Visualizing the Quality of Data** (https://www.youtube
 
 ## Data visualization masterclass
 
-This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively. Some of the examples use [vizdataquality](https://pypi.org/project/vizdataquality/).
+This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively. Some of the examples use [vizdataquality](https://pypi.org/project/vizdataquality/). You may download a [summary of the mistakes, tips and rule-breaking](https://github.com/royruddle/tutorials-and-talks/blob/main/viz_masterclass/viz_masterclass_summary.pdf).
 
 Previous dates:
 - 14th March 2025, University of Leeds, Leeds, UK (hybrid)
