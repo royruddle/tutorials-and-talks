@@ -26,9 +26,10 @@ This 1-hour talk will teach you about different types of chart and visual encodi
 
 Previous dates:
 - 14th March 2025, University of Leeds, Leeds, UK (hybrid)
+- 18th November 2025, University of Leeds, Leeds, UK (hybrid)
 
 Next date:
-- 18th November 2025, University of Leeds, Leeds, UK (hybrid)
+- TBC
 
 
 ## Talks about data quality
@@ -59,7 +60,7 @@ Previous dates:
 - 2nd April 2025, University of Leeds, Leeds, UK (in-person)
 
 Next date:
-- 12th December 2025, University of Leeds, Leeds, UK (in-person)
+- 12th December 2025, University of Leeds, Leeds, UK (in-person). [Book your place](https://store.leeds.ac.uk/conferences-and-events/faculty-of-medicine-health/lida-leeds-institute-for-data-analytics/lida-data-quality-course)
 
 ## Training workshop: Visualization for explainable AI (XAI)
 
@@ -74,9 +75,12 @@ Here are some of the workshop materials:
 
 Previous dates:
 - 7th October 2025, University of Leeds, Leeds, UK (in-person)
+- 3rd November 2025, IEEE VIS Conference, Vienna, Austria (in-person)
 
 Next date:
-- 3rd November 2025, IEEE VIS Conference, Vienna, Austria (in-person)
+- TBC
+
+I also give short talks about Visualization for Explainable AI, based on the tutorial's content.
 
 ## Training workshop: Tableau visualization
 
