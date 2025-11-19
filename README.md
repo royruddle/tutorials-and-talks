@@ -80,7 +80,7 @@ Previous dates:
 Next date:
 - TBC
 
-I also give short talks about Visualization for Explainable AI, based on the tutorial's content.
+I also give short talks about Visualization for Explainable AI, based on the tutorial's content. E.g., at the N8 Universities' [Best Practices in AI](https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html) event on 12th November 2025.
 
 ## Training workshop: Tableau visualization
 
