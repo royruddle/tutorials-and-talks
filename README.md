@@ -58,9 +58,10 @@ You may use any software for the practical work and you need to bring a laptop t
 
 Previous dates:
 - 2nd April 2025, University of Leeds, Leeds, UK (in-person)
+- 12th December 2025, University of Leeds, Leeds, UK (in-person)
 
 Next date:
-- 12th December 2025, University of Leeds, Leeds, UK (in-person). [Book your place](https://store.leeds.ac.uk/conferences-and-events/faculty-of-medicine-health/lida-leeds-institute-for-data-analytics/lida-data-quality-course)
+- TBC
 
 ## Training workshop: Visualization for explainable AI (XAI)
 
