@@ -42,8 +42,8 @@ I have also given a number of talks about investigating data quality, including:
 - How can you rigorously profile and investigate the quality of your data? 14th March 2024 (Consumer Data Research Centre), 15th May 2024 (LIDA Data Scientist Development Programme), 18th June 2024 (Alan Turing Institute tech talk)
 - New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). This talk's aim was to ``open your eyes about the many ways your data might be `wrong' and describe six steps for rigorously and efficiently checking data quality'', showcasing the [six-step data quality workflow](https://doi.org/10.5518/1481).
 - How should I investigate data? In this tech talk I demonstrated the openly available [six-step data quality workflow](https://doi.org/10.5518/1481) and associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
-* 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person).
-* 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person).
+  - 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person).
+  - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person).
 
 
 ## Training workshop: Data quality
