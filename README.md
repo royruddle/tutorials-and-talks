@@ -5,7 +5,7 @@ Feel free to contact me via LinkedIn (www.linkedin.com/in/roy-ruddle-9973457b) i
 See my website (https://raruddle.wordpress.com/) for lots more information.
 
 ## Resources
-**[6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method)** that describes 69 data quality/profiling tasks in plain English, with a downloadable Excel checklist. The tasks are grouped into these six recommended steps:
+The **[6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method)** that describes 69 data quality/profiling tasks in plain English, with a downloadable Excel checklist. The tasks are grouped into these six recommended steps:
 1. Is anything obviously wrong (look at your data and any documentation)?
 2. Watch out for special values
 3. Is any data missing?
