@@ -5,8 +5,8 @@ Feel free to contact me via LinkedIn (www.linkedin.com/in/roy-ruddle-9973457b) i
 See my website (https://raruddle.wordpress.com/) for lots more information.
 
 ## Resources
-**Practitioner's Guide** (https://doi.org/10.5518/1481) that describes 62 data quality/profiling tasks in plain English, with a downloadable Excel checklist. The tasks are grouped into this six-step recommended workflow:
-1. Look at your data (is anything obviously wrong?)
+**[6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method)** that describes 69 data quality/profiling tasks in plain English, with a downloadable Excel checklist. The tasks are grouped into this six-step recommended workflow:
+1. Is anything obviously wrong (look at your data and any documentation)?
 2. Watch out for special values
 3. Is any data missing?
 4. Check each variable
@@ -45,10 +45,12 @@ I have also given a number of talks about investigating data quality, including:
   - 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person).
   - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person). [Slides](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_I_investigate_data-2026a_2x2.pdf).
 
+Next date:
+- April/May/June in Nottingham, Manchester, Glasgow, York and Newcastle (details soon!)
 
 ## Training workshop: Data quality
 
-In this 1-day interactive course you will learn the why, what, when and how of investigating data quality. You will put your knowledge into practice in a series of challenges that cover tabular, spatial and longitudinal data. The workshop follows the [six-step data quality workflow](https://doi.org/10.5518/1481), using [vizdataquality](https://pypi.org/project/vizdataquality/) and other software to provide solutions to the challenges. The workshop objectives are:
+In this 1-day interactive course you will learn the why, what, when and how of investigating data quality. You will put your knowledge into practice in a series of challenges that cover tabular, spatial and longitudinal data. The workshop follows the [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method), using [vizdataquality](https://pypi.org/project/vizdataquality/) and other software to provide solutions to the challenges. The workshop objectives are:
 -	To understand the range of tasks you need to perform to investigate data quality
 -	To learn about computational and visualization techniques you can use
 -	To gain experience of an efficient and rigorous workflow
@@ -63,7 +65,7 @@ Previous dates:
 - 12th December 2025, University of Leeds, Leeds, UK (in-person)
 
 Next date:
-- TBC
+- May/June 2026 in Birmingham, Edinburgh, London and Manchester (details soon!)
 
 ## Training workshop: Visualization for explainable AI (XAI)
 
@@ -81,7 +83,7 @@ Previous dates:
 - 3rd November 2025, IEEE VIS Conference, Vienna, Austria (in-person)
 
 Next date:
-- TBC
+- EuroVis 2026 conference, Nottingham, UK (in-person). Exact date TBC.
 
 I also give short talks about Visualization for Explainable AI, based on the tutorial's content. E.g., at the N8 Universities' [Best Practices in AI](https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html) event on 11th November 2025.
 
@@ -102,8 +104,6 @@ Previous dates:
 - 28th April 2023, University of Leeds, Leeds, UK (in-person)
 - 7th June 2024, University of Leeds, Leeds, UK (in-person)
 - 30th May 2025, University of Leeds, Leeds, UK (in-person)
-
-Next date:
-- TBC
+- 5th February 2026, University of Leeds, Leeds, UK (in-person)
 
 Half-day versions of this workshop were run for the *Leeds Data Science Society* on 15th November 2017, 11th June 2018 (twice), 13th March 2019 (twice) and 11th March 2020.
