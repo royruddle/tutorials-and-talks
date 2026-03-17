@@ -5,7 +5,7 @@ Feel free to contact me via LinkedIn (www.linkedin.com/in/roy-ruddle-9973457b) i
 See my website (https://raruddle.wordpress.com/) for lots more information.
 
 ## Resources
-**[6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method)** that describes 69 data quality/profiling tasks in plain English, with a downloadable Excel checklist. The tasks are grouped into this six-step recommended workflow:
+**[6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method)** that describes 69 data quality/profiling tasks in plain English, with a downloadable Excel checklist. The tasks are grouped into these six recommended steps:
 1. Is anything obviously wrong (look at your data and any documentation)?
 2. Watch out for special values
 3. Is any data missing?
@@ -16,7 +16,7 @@ See my website (https://raruddle.wordpress.com/) for lots more information.
 Software:
 - The **ACE** interactive set visualization software (written in Java; https://doi.org/10.5518/1150), which we used with epidemiologists and NHS Digital to gain new insights into [patterns of missing data in a large hospital dataset](http://dx.doi.org/10.1136/bmjopen-2022-064887).
 - The **setvis** Python package (https://pypi.org/project/setvis/), which has similar functionality to ACE for general purpose set visualization, works with in-memory datasets and PostgresSQL databases, and is [very memory efficient](https://joss.theoj.org/papers/10.21105/joss.06925).
-- The **vizdataquality** Python package (https://pypi.org/project/vizdataquality/), which implements the above [six-step workflow for efficiently and rigorously investigating data quality](https://doi.org/10.5518/1481), and helps you to visually document your investigations as a webpage, in Latex or Word.
+- The **vizdataquality** Python package (https://pypi.org/project/vizdataquality/), which implements the above [6-step method for efficiently and rigorously investigating data quality](https://github.com/royruddle/6-step-data-quality-method), and helps you to visually document your investigations as a webpage, in Latex or Word.
 
 A 22-minute film called **Visualizing the Quality of Data** (https://www.youtube.com/watch?v=PnNMfCRWL7k)
 
@@ -40,8 +40,8 @@ Through 10+ year's of research, I have developed a method and software (see *Res
 I have also given a number of talks about investigating data quality, including:
 - How good is my data and how can I check it? 6th October 2020 (industry organised hackathon) and 21st July 2020 (LIDA-Alan Turing Institute Data Centre Collaboration Event).
 - How can you rigorously profile and investigate the quality of your data? 14th March 2024 (Consumer Data Research Centre), 15th May 2024 (LIDA Data Scientist Development Programme), 18th June 2024 (Alan Turing Institute tech talk)
-- New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). This talk's aim was to ``open your eyes about the many ways your data might be `wrong' and describe six steps for rigorously and efficiently checking data quality'', showcasing the [six-step data quality workflow](https://doi.org/10.5518/1481).
-- How should I investigate data? In this tech talk I demonstrated the openly available [six-step data quality workflow](https://doi.org/10.5518/1481) and associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
+- New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). This talk's aim was to ``open your eyes about the many ways your data might be `wrong' and describe six steps for rigorously and efficiently checking data quality'', showcasing the [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method).
+- How should I investigate data? In this tech talk I demonstrated the openly available [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method) and associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
   - 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person).
   - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person). [Slides](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_I_investigate_data-2026a_2x2.pdf).
 
@@ -56,7 +56,7 @@ In this 1-day interactive course you will learn the why, what, when and how of i
 -	To gain experience of an efficient and rigorous workflow
 -	To learn how to communicate your findings
 
-**Is this workshop for me?** The workshop is open to everyone, irrespective of your level of knowledge about data quality. However, you will get the most out of the course if you have familiarised yourself with the [six-step data quality workflow](https://doi.org/10.5518/1481), which was written by a team that I led.
+**Is this workshop for me?** The workshop is open to everyone, irrespective of your level of knowledge about data quality. However, you will get the most out of the course if you have familiarised yourself with the [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method), which was written by a team that I led.
 No prior technical knowledge is assumed for this workshop.
 You may use any software for the practical work and you need to bring a laptop to use for that practical work, with the software installed.
 
