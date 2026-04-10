@@ -44,9 +44,13 @@ I have also given a number of talks about investigating data quality, including:
 - How should I investigate data? In this tech talk I demonstrated the openly available [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method) and associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
   - 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person).
   - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person). [Slides](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_I_investigate_data-2026b_2x2.pdf).
+  - 2nd April 2026, Nottingham DS & AI Meetup, UK (in-person).
 
-Next date:
-- April/May/June in Nottingham, Manchester, Glasgow, York and Newcastle (details soon!)
+Next dates:
+- 23rd April 2026, online talk for RSS Manchester local group [register](https://rss.org.uk/training-events/events/events-2026/local-groups/data-quality-how-to-save-time-and-simultaneously-i/)
+- 28th April 2026, RSS Glasgow local group [register](https://rss.org.uk/training-events/events/events-2026/local-groups/a-practical-guide-to-characterising-data-and-inves/)
+- 20th May 2026, [Digital Footprints 2026](https://store.leeds.ac.uk/conferences-and-events/environment/geography/df26-digital-footprints-2026), York, UK
+- 26th June 2026, [Datalyst 2026](https://www.eventbrite.co.uk/e/datalyst-2026-tickets-1982878006495?aff=oddtdtcreator&keep_tld=true), Newcastle, UK
 
 ## Training workshop: Data quality
 
@@ -64,8 +68,11 @@ Previous dates:
 - 2nd April 2025, University of Leeds, Leeds, UK (in-person)
 - 12th December 2025, University of Leeds, Leeds, UK (in-person)
 
-Next date:
-- May/June 2026 in Birmingham, Edinburgh, London and Manchester (details soon!)
+Next dates (one-day courses, starting 09:30 and ending 16:30; [booking here](https://store.leeds.ac.uk/conferences-and-events/faculty-of-medicine-health/lida-leeds-institute-for-data-analytics):
+- 28th May 2026, Edinburgh, UK
+- 15th June 2026, Manchester, UK
+- 16th June 2026, Birmingham, UK
+- 23rd June 2026, London, UK
 
 ## Training workshop: Visualization for explainable AI (XAI)
 
