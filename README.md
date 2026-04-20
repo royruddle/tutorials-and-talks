@@ -43,7 +43,7 @@ I have also given a number of talks about investigating data quality, including:
 - New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). This talk's aim was to ``open your eyes about the many ways your data might be `wrong' and describe six steps for rigorously and efficiently checking data quality'', showcasing the [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method).
 - How should I investigate data? In this tech talk I demonstrated the openly available [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method) and associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
   - 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person).
-  - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person). [Slides](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_I_investigate_data-2026_2x2.pdf).
+  - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person). [Slides](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_I_investigate_data_2026_2x2.pdf).
   - 2nd April 2026, Nottingham DS & AI Meetup, UK (in-person).
 
 Next dates:
