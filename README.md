@@ -43,11 +43,15 @@ I have also given a number of talks about investigating data quality, including:
 - New perspectives on data science for business, 22nd September 2025, Leeds Digital Festival, Leeds, UK (in-person). This talk's aim was to ``open your eyes about the many ways your data might be `wrong' and describe six steps for rigorously and efficiently checking data quality'', showcasing the [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method).
 - How should I investigate data? In this tech talk I demonstrated the openly available [6-step Data Quality Method](https://github.com/royruddle/6-step-data-quality-method) and associated [vizdataquality Python package](https://pypi.org/project/vizdataquality/).
   - 30th September 2025, Leeds Data Science Meetup/Digital Festival, Leeds, UK (in-person).
-  - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person). [Slides](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_i_investigate_data_2026_2x2.pdf).
+  - 29th January 2026, North East Data Scientsts Meetup, Newcastle, UK (in-person).
   - 2nd April 2026, Nottingham DS & AI Meetup, UK (in-person).
+  - 23rd April 2026, online talk for RSS Manchester local group.
+
+Versions of the talk slides:
+  - [Version 1](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_i_investigate_data_2026_2x2.pdf), from the January/April 2026 Meetup talks.
+  - [Version 2](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_i_investigate_data_2026c_2x2.pdf), from the RSS talks (April 2026).
 
 Next dates:
-- 23rd April 2026, online talk for RSS Manchester local group [register](https://rss.org.uk/training-events/events/events-2026/local-groups/data-quality-how-to-save-time-and-simultaneously-i/)
 - 28th April 2026, RSS Glasgow local group [register](https://rss.org.uk/training-events/events/events-2026/local-groups/a-practical-guide-to-characterising-data-and-inves/)
 - 20th May 2026, [Digital Footprints 2026](https://store.leeds.ac.uk/conferences-and-events/environment/geography/df26-digital-footprints-2026), York, UK
 - 26th June 2026, [Datalyst 2026](https://www.eventbrite.co.uk/e/datalyst-2026-tickets-1982878006495?aff=oddtdtcreator&keep_tld=true), Newcastle, UK
