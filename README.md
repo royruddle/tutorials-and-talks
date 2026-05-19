@@ -73,7 +73,6 @@ Previous dates:
 - 12th December 2025, University of Leeds, Leeds, UK (in-person)
 
 Next dates (one-day courses, starting 09:30 and ending 16:30; [book here](https://store.leeds.ac.uk/conferences-and-events/faculty-of-medicine-health/lida-leeds-institute-for-data-analytics)):
-- 28th May 2026, Edinburgh, UK
 - 15th June 2026, Manchester, UK
 - 16th June 2026, Birmingham, UK
 - 22nd June 2026, London, UK
