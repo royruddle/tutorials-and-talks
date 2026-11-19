@@ -25,11 +25,11 @@ A 22-minute film called **Visualizing the Quality of Data** (https://www.youtube
 This 1-hour talk will teach you about different types of chart and visual encoding, common mistakes people make and when to break the rules. By attending you will learn how to choose good visualizations designs, to analyse and present your data effectively. Some of the examples use [vizdataquality](https://pypi.org/project/vizdataquality/). You may download a [summary of the mistakes, tips and rule-breaking](https://github.com/royruddle/tutorials-and-talks/blob/main/viz_masterclass/viz_masterclass_summary.pdf).
 
 Previous dates:
-- 14th March 2025, University of Leeds, Leeds, UK (hybrid)
-- 18th November 2025, University of Leeds, Leeds, UK (hybrid)
+- 14th March 2025, LIDA, University of Leeds, Leeds, UK (hybrid)
+- 18th November 2025, LIDA, University of Leeds, Leeds, UK (hybrid)
 
 Next date:
-- TBC
+- 3rd December 2026, LIDA, University of Leeds, Leeds, UK (hybrid) [book here](https://www.tickettailor.com/events/surprisinganalytics/)
 
 
 ## Talks about data quality
@@ -47,14 +47,15 @@ I have also given a number of talks about investigating data quality, including:
   - 2nd April 2026, Nottingham DS & AI Meetup, UK (in-person).
   - 23rd April 2026, online talk for RSS Manchester local group.
   - 28th April 2026, RSS Glasgow local group
+  - 20th May 2026, [Digital Footprints 2026](https://conferences.leeds.ac.uk/digitalfootprints/), York, UK
+  - 26th June 2026, [Datalyst 2026](https://www.thecatalystnewcastle.co.uk/event/datalyst-2026/), Newcastle, UK
 
 Versions of the talk slides:
   - [Version 1](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_i_investigate_data_2026_2x2.pdf), from the January/April 2026 Meetup talks.
   - [Version 2](https://github.com/royruddle/tutorials-and-talks/blob/main/data_quality_talks/how_should_i_investigate_data_2026c_2x2.pdf), from the RSS talks (April 2026).
 
 Next dates:
-- 20th May 2026, [Digital Footprints 2026](https://store.leeds.ac.uk/conferences-and-events/environment/geography/df26-digital-footprints-2026), York, UK
-- 26th June 2026, [Datalyst 2026](https://www.eventbrite.co.uk/e/datalyst-2026-tickets-1982878006495?aff=oddtdtcreator&keep_tld=true), Newcastle, UK
+- TBC
 
 ## Training workshop: Data quality
 
@@ -72,10 +73,9 @@ Previous dates:
 - 2nd April 2025, University of Leeds, Leeds, UK (in-person)
 - 12th December 2025, University of Leeds, Leeds, UK (in-person)
 
-Next dates (one-day courses, starting 09:30 and ending 16:30; [book here](https://store.leeds.ac.uk/conferences-and-events/faculty-of-medicine-health/lida-leeds-institute-for-data-analytics)):
-- 15th June 2026, Manchester, UK
-- 16th June 2026, Birmingham, UK
-- 22nd June 2026, London, UK
+Next dates (one-day courses, starting 09:30 and ending 16:30; [book here](https://www.tickettailor.com/events/surprisinganalytics/)):
+- 11th January 2027, Leeds, UK
+- 13th January 2027, Manchester, UK
 
 ## Training workshop: Visualization for explainable AI (XAI)
 
@@ -91,9 +91,10 @@ Here are some of the workshop materials:
 Previous dates:
 - 7th October 2025, University of Leeds, Leeds, UK (in-person)
 - 3rd November 2025, IEEE VIS Conference, Vienna, Austria (in-person)
+- 9th June 2026, [EuroVis 2026 conference](https://eurovis.org.uk/), Nottingham, UK (in-person)
 
 Next date:
-- EuroVis 2026 conference, Nottingham, UK (in-person). Exact date TBC.
+- TBC
 
 I also give short talks about Visualization for Explainable AI, based on the tutorial's content. E.g., at the N8 Universities' [Best Practices in AI](https://rse.shef.ac.uk/events/seminar-2025-11-11-best-practices-in-ai-afternoon-2.html) event on 11th November 2025.
 
